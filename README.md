@@ -1,4 +1,4 @@
-segmentpuzzle
+SegmentPuzzle
 =============
 
 For the Adafruit Trinket: https://learn.adafruit.com/introducing-trinket/introduction
